@@ -1,0 +1,21 @@
+ossp skill-1
+Name: Praneeth Kumar Gadila_2520030257
+
+1. Linux VM, GCC, Git, Shell and Makefile
+
+• Install and configure a Linux Virtual Machine (VM).
+• Configure GCC to compile and run C programs.
+• Set up a Git repository to store and manage programs.
+• Create a proper project folder structure.
+• Understand Shell Architecture and how Linux commands are executed.
+• Create and understand a basic Makefile for compiling programs.
+
+2. Process Management and System Calls
+
+• Understand process abstraction in Linux.
+• Use fork() to create child processes.
+• Understand the exec() family for executing programs.
+• Understand parent-child relationships between processes.
+• Inspect the process tree using commands like ps and pstree.
+• Practice system call tracing to understand how programs interact with the Linux kernel.
+
