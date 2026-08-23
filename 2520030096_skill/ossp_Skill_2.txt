@@ -1,0 +1,19 @@
+Name: M Guru kiran_2520030096
+
+1. Interactive Command Loop
+
+Create the main loop for continuously accepting user commands.
+Display a command prompt and read input from the user.
+Implement an exit condition to terminate the loop.
+Design a simple control-flow diagram showing the command-processing sequence.
+Test the interactive loop with different commands and exit conditions.
+
+
+2. Keyboard Input and Command Handling
+
+Capture keyboard input from the user.
+Implement backspace handling to allow correction of typed characters.
+Process the Enter key to complete the command input.
+Maintain an input buffer to store the characters entered by the user.
+Support commands containing multiple characters.
+Test the program to verify correct and smooth user interaction.
