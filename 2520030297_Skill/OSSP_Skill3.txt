@@ -1,0 +1,17 @@
+1.Command History and Dynamic Memory Management
+
+Implement escape sequences to support command navigation.
+Store previously entered commands in command history.
+Allow users to move to previously entered commands using navigation keys.
+Support moving forward to newer commands.
+Update the input buffer whenever a previous or next command is selected.
+Test the command recall feature to ensure that stored commands can be accessed correctly.
+
+2. Dynamic Memory and Buffer Management
+
+Allocate memory dynamically for input buffers.
+Resize arrays when additional memory is required.
+Prevent buffer overflow while accepting user input.
+Use linked lists to manage dynamically stored commands.
+Release allocated memory properly to avoid memory leaks.
+Use Valgrind to verify that memory is allocated and freed correctly.
